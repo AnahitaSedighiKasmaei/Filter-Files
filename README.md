@@ -1,6 +1,6 @@
 # Filter-Files
 
-Write a C/C++ program, call it findExt, to find all files in a directory hierarchy, whose extensions
+A C program, called it findExt, to find all files in a directory hierarchy, whose extensions
 are in the extension list provided as arguments to the program. Your program should print the
 whole pathnames of the found files.
 Synopsis: findExt <extension-list> [-t target-directory]
