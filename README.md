@@ -1,4 +1,4 @@
-# Filter-Files
+# Filter-Files-By-nftw()
 
 A C program, called it findExt, to find all files in a directory hierarchy, whose extensions
 are in the extension list provided as arguments to the program.
